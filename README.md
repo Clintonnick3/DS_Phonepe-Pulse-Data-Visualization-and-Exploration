@@ -38,3 +38,5 @@ The data used in PhonePe Pulse is available in this link [PhonePe Pulse](https:/
 * Live Geo Visualization Dashboard: Python's Streamlit and Plotly libraries are utilized to create an interactive and visually appealing dashboard. This dashboard presents the data in real-time, enabling users to explore the insights effectively.
 * Database Integration with the Dashboard: The relevant data is fetched from the MySQL database and seamlessly integrated into the dashboard, ensuring the displayed information is up-to-date and accurate.
 * User-Selectable Dropdown Options: The dashboard incorporates a minimum of 10 distinct dropdown options, providing users with the ability to select and view various facts and figures of interest. This feature enhances the customization and flexibility of the dashboard.
+
+Want to explore my [Phonepe pulse ipynb data?](https://github.com/Clintonnick3/DS_Phonepe-Pulse-Data-Visualization-and-Exploration/blob/main/Phonepe.ipynb)
